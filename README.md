@@ -1,22 +1,23 @@
 <div align="center">
   
-  <!-- DYNAMIC TYPING HEADER -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey+there,+I'm+Gaurav+Chavan;DevOps+Engineer;Kubernetes+%26+CI%2FCD+Pipelines;Infrastructure+as+Code" alt="Typing SVG" />
+  <!-- FIXED NAME + ANIMATED SUBTITLE -->
+  <h1>Hey there, I'm Gaurav Chavan 👋</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Kubernetes+%26+CI%2FCD+Pipelines;Infrastructure+as+Code;Cloud+Architect" alt="Typing SVG" />
   
   <br/>
-  
-  <!-- ABOUT ME SECTION -->
+
+  <!-- ABOUT ME -->
   <table border="0" width="100%">
     <tr>
       <td align="center">
-        <h3>🚀 About Me</h3>
+        <h3> About Me</h3>
         <p align="left">
           I'm a DevOps Engineer passionate about building <b>cloud-native microservices</b> and contributing to open source. I focus on automating infrastructure, streamlining deployments, and making systems observable from day one.
         </p>
         <ul align="left">
           <li>🔭 Currently working on <b>containerized microservices with Kubernetes & CI/CD pipelines</b></li>
-          <li> Learning <b>AWS & GitOps workflows</b></li>
-          <li> Looking to collaborate on <b>open-source DevOps tooling</b></li>
+          <li>🌱 Learning <b>AWS & GitOps workflows</b></li>
+          <li>🤝 Looking to collaborate on <b>open-source DevOps tooling</b></li>
           <li>💬 Ask me about <b>Linux, Docker, Kubernetes, Terraform, Ansible & Observability</b></li>
           <li>⚡ Fun fact: <b>I treat every outage as a feature request for better observability</b></li>
         </ul>
@@ -26,46 +27,49 @@
 
   <hr/>
 
-  <!-- TECH STACK SECTION (HTML TABLE LAYOUT) -->
+  <!-- TECH STACK GRID -->
   <h3>🛠️ Tech Stack</h3>
-  
   <table border="0">
     <tr>
-      <td valign="top" width="50%">
-        <h4>Languages & Scripting</h4>
-        <p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go"/>
-        </p>
+      <td valign="top" width="33%">
+        <div style="border: 1px solid #30363d; border-radius: 6px; padding: 10px; background-color: #0d1117;">
+          <h4>Languages & Scripting</h4>
+          <p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="Bash"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go"/>
+          </p>
+        </div>
       </td>
-      <td valign="top" width="50%">
-        <h4>Cloud & DevOps</h4>
-        <p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS"/>
-        </p>
+      <td valign="top" width="33%">
+        <div style="border: 1px solid #30363d; border-radius: 6px; padding: 10px; background-color: #0d1117;">
+          <h4>Cloud & DevOps</h4>
+          <p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="Linux"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS"/>
+          </p>
+        </div>
       </td>
-    </tr>
-    <tr>
-      <td valign="top" width="50%">
-        <h4>Observability & Monitoring</h4>
-        <p>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="Elasticsearch"/>
-        </p>
+      <td valign="top" width="33%">
+        <div style="border: 1px solid #30363d; border-radius: 6px; padding: 10px; background-color: #0d1117;">
+          <h4>Observability</h4>
+          <p>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="Prometheus"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="Grafana"/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="30" alt="Elasticsearch"/>
+          </p>
+        </div>
       </td>
     </tr>
   </table>
 
   <hr/>
 
-  <!-- GITHUB STATS -->
+  <!-- GITHUB STATS (FIXED LINKS) -->
   <h3>📊 GitHub Stats</h3>
   <table border="0">
     <tr>
@@ -80,7 +84,7 @@
 
   <hr/>
 
-  <!-- MEDIUM ARTICLES / NOTION SECTION -->
+  <!-- LATEST ARTICLES (CLEAN CARDS) -->
   <h3>📝 Latest Articles & Writings</h3>
   <p>Check out my deep dives into AWS Architecture and Scaling:</p>
   
@@ -101,7 +105,7 @@
       <td width="33%" valign="top">
         <a href="https://medium.com/@codinggaurav85/how-we-scaled-myapp-com-on-aws-and-why-we-used-each-service-a0bed1b041c4" style="text-decoration:none;">
           <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #0d1117; color: #c9d1d9;">
-            <h4 style="margin-top:0; color: #58A6FF;"> How We Scaled MyApp.com</h4>
+            <h4 style="margin-top:0; color: #58A6FF;">⚖️ How We Scaled MyApp.com</h4>
             <p style="font-size: 12px;">On AWS and Why We Used Each Service.</p>
             <span style="font-size: 12px; color: #8b949e;">Read More →</span>
           </div>
@@ -112,7 +116,7 @@
       <td width="33%" valign="top">
         <a href="https://medium.com/@codinggaurav85/the-making-of-myapp-com-from-one-virtual-machine-to-millions-of-users-0427f879f70e" style="text-decoration:none;">
           <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #0d1117; color: #c9d1d9;">
-            <h4 style="margin-top:0; color: #58A6FF;">️ The Making of MyApp.com</h4>
+            <h4 style="margin-top:0; color: #58A6FF;">🏗️ The Making of MyApp.com</h4>
             <p style="font-size: 12px;">From One Virtual Machine to Millions of Users.</p>
             <span style="font-size: 12px; color: #8b949e;">Read More →</span>
           </div>
