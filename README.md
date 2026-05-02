@@ -114,7 +114,6 @@
 <td width="50%" valign="top">
 <div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
 <img width="1100" height="617" alt="image" src="https://github.com/user-attachments/assets/3f8ce6d4-1e19-477f-8e8e-0068e37fafbb" />
-<img src="https://via.placeholder.com/400x200.png?text=Scaling+MyApp" alt="Article 1" style="width: 100%; height: auto; display: block;"/>
 <div style="padding: 15px;">
 <h4 style="margin-top:0; color: #58A6FF;">⚖️ How We Scaled MyApp.com</h4>
 <p style="font-size: 12px; margin-bottom: 10px;">On AWS and Why We Used Each Service.</p>
