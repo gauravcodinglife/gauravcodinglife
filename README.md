@@ -128,7 +128,6 @@
 <td width="50%" valign="top">
 <div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
 <img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/8b3dc999-15dc-4612-8e26-28e1d0746d2e" />
-<img src="https://via.placeholder.com/400x200.png?text=Making+of+MyApp" alt="Article 2" style="width: 100%; height: auto; display: block;"/>
 <div style="padding: 15px;">
 <h4 style="margin-top:0; color: #58A6FF;">🏗️ The Making of MyApp.com</h4>
 <p style="font-size: 12px; margin-bottom: 10px;">From One Virtual Machine to Millions of Users.</p>
