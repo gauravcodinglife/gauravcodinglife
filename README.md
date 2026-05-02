@@ -80,7 +80,7 @@
       CodingWorld is the interactive playground where aspiring engineers master the cloud without the setup.
     </p>
     
-    <table border="0" width="100%">
+  <table border="0" width="100%">
     <tr>
     <td valign="top" width="50%">
     <ul style="color: #8b949e; line-height: 1.8;">
