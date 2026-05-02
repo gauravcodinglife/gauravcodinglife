@@ -15,7 +15,7 @@
     <li>🔭 Currently working on <b>containerized microservices with Kubernetes & CI/CD pipelines</b></li>
     <li>🌱 Learning <b>AWS & GitOps workflows</b></li>
     <li>🤝 Looking to collaborate on <b>open-source DevOps tooling</b></li>
-    <li>💬 Ask me about <b>Linux, Docker, Kubernetes, Terraform, Ansible & Observability</b></li>
+    <li>💬 Ask me about <b>Linux, Docker, Kubernetes, Jenkins and GitLab in CI/CD</b></li>
     <li>⚡ Fun fact: <b>I treat every outage as a feature request for better observability</b></li>
   </ul>
 
@@ -44,7 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="Terraform"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="Ansible"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="Jenkins"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS"/>
 </p>
 </div>
@@ -64,29 +64,47 @@
 
   <hr/>
 
-  <!-- CODING WORLD SECTION (FIXED LINK & 1 IMAGE) -->
+  <!-- CODING WORLD SECTION (FULL WIDTH IMAGE + NEW TEXT) -->
   <h3>🚀 Founder of CodingWorld</h3>
-  <table border="0" width="100%">
-  <tr>
-  <td valign="top" width="40%">
-  <img width="1879" height="901" alt="image" src="https://github.com/user-attachments/assets/f9e9dc9a-24ed-4c71-b434-4361cfe31a1e" />
-  <img src="https://via.placeholder.com/400x300.png?text=CodingWorld+Platform" alt="CodingWorld" style="width: 100%; border-radius: 6px; border: 1px solid #30363d;"/>
-  </td>
-  <td valign="top" width="60%" align="left">
-  <h4 style="color: #58A6FF; margin-top: 0;">Bridging the Gap Between Theory and Practice</h4>
-  <p style="color: #c9d1d9; line-height: 1.6;">
-    Traditional learning is passive. <b>CodingWorld is active.</b><br/><br/>
-    We bridge the gap between theory and practice by providing a <b>Simulated CLI Environment</b> and <b>Live Dashboard Simulations</b>.<br/><br/>
-    Users don't just watch videos; they type commands, configure infrastructure, and solve real-world scenarios in a safe, sandboxed environment.
-  </p>
+  
+  <!-- FULL WIDTH IMAGE -->
+  <img width="1868" height="882" alt="image" src="https://github.com/user-attachments/assets/753ff616-b7b1-4b64-aaf4-42887a98734b" />
+  <img src="https://via.placeholder.com/1200x400.png?text=CodingWorld+Platform+Screenshot" alt="CodingWorld" style="width: 100%; border-radius: 6px; border: 1px solid #30363d;"/>
+  
   <br/>
-  <!-- FIXED LINK TO VERCEL APP -->
-  <a href="https://coding-world-final-sy61.vercel.app/" target="_blank" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/VISIT_CODINGWORLD-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit CodingWorld" />
-  </a>
-  </td>
-  </tr>
-  </table>
+  
+  <!-- DESCRIPTION BELOW IMAGE -->
+  <div align="left" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
+    <h4 align="center" style="color: #58A6FF; margin-top: 0;">Stop watching tutorials. Start typing commands.</h4>
+    <p align="center" style="color: #c9d1d9;">
+      CodingWorld is the interactive playground where aspiring engineers master the cloud without the setup.
+    </p>
+    
+    <table border="0" width="100%">
+    <tr>
+    <td valign="top" width="50%">
+    <ul style="color: #8b949e; line-height: 1.8;">
+      <li>⚡ <b>Real CLI Simulation:</b> Practice Linux, Docker & Kubernetes in a live terminal.</li>
+      <li>🧠 <b>AI Mentor:</b> Get instant feedback and syntax help on every command.</li>
+    </ul>
+    </td>
+    <td valign="top" width="50%">
+    <ul style="color: #8b949e; line-height: 1.8;">
+      <li>🗺️ <b>30-Day Roadmaps:</b> Structured paths from "Hello World" to "Hired."</li>
+      <li>💼 <b>Interview Prep:</b> Ace technical rounds at Google, Amazon & more.</li>
+    </ul>
+    </td>
+    </tr>
+    </table>
+    
+    <div align="center">
+      <p style="color: #58A6FF; font-weight: bold; font-size: 14px;">Build Skills. Ace Interviews. Launch Your Career.</p>
+      <!-- FIXED LINK TO VERCEL APP -->
+      <a href="https://coding-world-final-sy61.vercel.app/" target="_blank" style="text-decoration: none;">
+        <img src="https://img.shields.io/badge/👉_JOIN_CODINGWORLD_TODAY-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit CodingWorld" />
+      </a>
+    </div>
+  </div>
 
   <hr/>
 
@@ -99,7 +117,7 @@
 <!-- Article 1: How We Scaled -->
 <td width="50%" valign="top">
 <div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
-<img width="1100" height="617" alt="image" src="https://github.com/user-attachments/assets/d054dba7-3012-459c-b2e6-1e5d3f20a9bf" />
+<img width="1100" height="617" alt="image" src="https://github.com/user-attachments/assets/3f8ce6d4-1e19-477f-8e8e-0068e37fafbb" />
 <img src="https://via.placeholder.com/400x200.png?text=Scaling+MyApp" alt="Article 1" style="width: 100%; height: auto; display: block;"/>
 <div style="padding: 15px;">
 <h4 style="margin-top:0; color: #58A6FF;">⚖️ How We Scaled MyApp.com</h4>
@@ -114,7 +132,7 @@
 <!-- Article 2: The Making of -->
 <td width="50%" valign="top">
 <div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
-<img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/6fb1c5f7-f8c6-4995-950a-2ff464504b78" />
+<img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/8b3dc999-15dc-4612-8e26-28e1d0746d2e" />
 <img src="https://via.placeholder.com/400x200.png?text=Making+of+MyApp" alt="Article 2" style="width: 100%; height: auto; display: block;"/>
 <div style="padding: 15px;">
 <h4 style="margin-top:0; color: #58A6FF;">🏗️ The Making of MyApp.com</h4>
