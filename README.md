@@ -64,12 +64,12 @@
 
   <hr/>
 
-  <!-- CODING WORLD SECTION (NEW) -->
+  <!-- CODING WORLD SECTION (FIXED LINK & 1 IMAGE) -->
   <h3>🚀 Founder of CodingWorld</h3>
   <table border="0" width="100%">
   <tr>
   <td valign="top" width="40%">
-  <!-- REPLACE THE SRC BELOW WITH YOUR CODINGWORLD IMAGE LINK -->
+  <img width="1879" height="901" alt="image" src="https://github.com/user-attachments/assets/f9e9dc9a-24ed-4c71-b434-4361cfe31a1e" />
   <img src="https://via.placeholder.com/400x300.png?text=CodingWorld+Platform" alt="CodingWorld" style="width: 100%; border-radius: 6px; border: 1px solid #30363d;"/>
   </td>
   <td valign="top" width="60%" align="left">
@@ -80,9 +80,8 @@
     Users don't just watch videos; they type commands, configure infrastructure, and solve real-world scenarios in a safe, sandboxed environment.
   </p>
   <br/>
-  <img width="1866" height="887" alt="image" src="https://github.com/user-attachments/assets/f67fdc50-12af-48f9-9407-b3ce0c28b39a" />
-
-  <a href="https://codingworld.com" style="text-decoration: none;">
+  <!-- FIXED LINK TO VERCEL APP -->
+  <a href="https://coding-world-final-sy61.vercel.app/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/VISIT_CODINGWORLD-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit CodingWorld" />
   </a>
   </td>
@@ -91,58 +90,53 @@
 
   <hr/>
 
-  <!-- LATEST ARTICLES (FIXED LINKS & SIZING) -->
+  <!-- LATEST ARTICLES (2 CARDS + MEDIUM LINK) -->
   <h3>📝 Latest Articles & Writings</h3>
   <p>Deep dives into AWS Architecture and Scaling:</p>
   
 <table border="0" width="100%">
 <tr>
-<!-- Article 1 -->
-<td width="33%" valign="top">
-<a href="https://medium.com/@codinggaurav85/the-story-behind-every-icon-building-an-aws-network-that-actually-makes-sense-8d5d78b63654" style="text-decoration:none; color: inherit; display: block;">
+<!-- Article 1: How We Scaled -->
+<td width="50%" valign="top">
 <div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
-<img width="1100" height="733" alt="image" src="https://github.com/user-attachments/assets/53e98be1-d821-4564-b0e5-521fde2d9fbc" />
-<img src="https://via.placeholder.com/300x150.png?text=Article+1+Image" alt="Article 1" style="width: 100%; height: auto; display: block;"/>
-<div style="padding: 15px;">
-<h4 style="margin-top:0; color: #58A6FF;">🌐 The Story Behind Every Icon</h4>
-<p style="font-size: 12px; margin-bottom: 10px;">Building an AWS Network That Actually Makes Sense.</p>
-<span style="font-size: 12px; color: #8b949e; font-weight: bold;">Read Article →</span>
-</div>
-</div>
-</a>
-</td>
-
-<!-- Article 2 -->
-<td width="33%" valign="top">
-<a href="https://medium.com/@codinggaurav85/how-we-scaled-myapp-com-on-aws-and-why-we-used-each-service-a0bed1b041c4" style="text-decoration:none; color: inherit; display: block;">
-<div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
-<img width="1100" height="617" alt="image" src="https://github.com/user-attachments/assets/94368298-3a86-4148-a2b0-1877dfac124c" />
-<img src="https://via.placeholder.com/300x150.png?text=Article+2+Image" alt="Article 2" style="width: 100%; height: auto; display: block;"/>
+<img width="1100" height="617" alt="image" src="https://github.com/user-attachments/assets/d054dba7-3012-459c-b2e6-1e5d3f20a9bf" />
+<img src="https://via.placeholder.com/400x200.png?text=Scaling+MyApp" alt="Article 1" style="width: 100%; height: auto; display: block;"/>
 <div style="padding: 15px;">
 <h4 style="margin-top:0; color: #58A6FF;">⚖️ How We Scaled MyApp.com</h4>
 <p style="font-size: 12px; margin-bottom: 10px;">On AWS and Why We Used Each Service.</p>
-<span style="font-size: 12px; color: #8b949e; font-weight: bold;">Read Article →</span>
-</div>
-</div>
+<a href="https://medium.com/@codinggaurav85/how-we-scaled-myapp-com-on-aws-and-why-we-used-each-service-a0bed1b041c4" target="_blank" style="text-decoration: none;">
+<span style="font-size: 12px; color: #8b949e; font-weight: bold; border-bottom: 1px solid #58A6FF;">Read Article →</span>
 </a>
+</div>
+</div>
 </td>
 
-<!-- Article 3 -->
-<td width="33%" valign="top">
-<a href="https://medium.com/@codinggaurav85/the-making-of-myapp-com-from-one-virtual-machine-to-millions-of-users-0427f879f70e" style="text-decoration:none; color: inherit; display: block;">
+<!-- Article 2: The Making of -->
+<td width="50%" valign="top">
 <div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
-<img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/207b7262-018c-431c-912e-68854819d812" />
-<img src="https://via.placeholder.com/300x150.png?text=Article+3+Image" alt="Article 3" style="width: 100%; height: auto; display: block;"/>
+<img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/6fb1c5f7-f8c6-4995-950a-2ff464504b78" />
+<img src="https://via.placeholder.com/400x200.png?text=Making+of+MyApp" alt="Article 2" style="width: 100%; height: auto; display: block;"/>
 <div style="padding: 15px;">
 <h4 style="margin-top:0; color: #58A6FF;">🏗️ The Making of MyApp.com</h4>
 <p style="font-size: 12px; margin-bottom: 10px;">From One Virtual Machine to Millions of Users.</p>
-<span style="font-size: 12px; color: #8b949e; font-weight: bold;">Read Article →</span>
-</div>
-</div>
+<a href="https://medium.com/@codinggaurav85/the-making-of-myapp-com-from-one-virtual-machine-to-millions-of-users-0427f879f70e" target="_blank" style="text-decoration: none;">
+<span style="font-size: 12px; color: #8b949e; font-weight: bold; border-bottom: 1px solid #58A6FF;">Read Article →</span>
 </a>
+</div>
+</div>
 </td>
 </tr>
 </table>
+
+<br/>
+
+<!-- VIEW ALL ON MEDIUM BUTTON -->
+<div align="center">
+  <p style="color: #8b949e;">I have written many more articles on Cloud & DevOps</p>
+  <a href="https://medium.com/@codinggaurav85" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/VIEW_ALL_ON_MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="View All on Medium" />
+  </a>
+</div>
 
   <hr/>
 
