@@ -93,15 +93,6 @@
     </td>
     </tr>
     </table>
-    
-  <h4 style="color: #58A6FF; margin-top: 0;">Bridging the Gap Between Theory and Practice</h4>
-  <p style="color: #c9d1d9; line-height: 1.6;">
-    Traditional learning is passive. <b>CodingWorld is active.</b><br/><br/>
-    We bridge the gap between theory and practice by providing a <b>Simulated CLI Environment</b> and <b>Live Dashboard Simulations</b>.<br/><br/>
-    Users don't just watch videos; they type commands, configure infrastructure, and solve real-world scenarios in a safe, sandboxed environment.
-  </p>
-
-    
   <div align="center">
       <p style="color: #58A6FF; font-weight: bold; font-size: 14px;">Build Skills. Ace Interviews. Launch Your Career.</p>
       <!-- FIXED LINK TO VERCEL APP -->
