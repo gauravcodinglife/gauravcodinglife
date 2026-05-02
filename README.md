@@ -24,7 +24,6 @@
   <!-- TECH STACK GRID -->
   <h3>🛠️ Tech Stack</h3>
   
-<!-- NO INDENTATION BELOW THIS LINE FOR TABLE -->
 <table border="0">
 <tr>
 <td valign="top" width="33%">
@@ -62,7 +61,6 @@
 </td>
 </tr>
 </table>
-<!-- END OF TABLE -->
 
   <hr/>
 
@@ -81,7 +79,7 @@
 
   <hr/>
 
-  <!-- LATEST ARTICLES (FIXED HTML) -->
+  <!-- LATEST ARTICLES (WITH IMAGE PLACEHOLDERS) -->
   <h3>📝 Latest Articles & Writings</h3>
   <p>Check out my deep dives into AWS Architecture and Scaling:</p>
   
@@ -90,7 +88,10 @@
 <td width="33%" valign="top">
 <a href="https://medium.com/@codinggaurav85/the-story-behind-every-icon-building-an-aws-network-that-actually-makes-sense-8d5d78b63654" style="text-decoration:none;">
 <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #0d1117; color: #c9d1d9;">
-<h4 style="margin-top:0; color: #58A6FF;">🌐 The Story Behind Every Icon</h4>
+<img width="1100" height="733" alt="image" src="https://github.com/user-attachments/assets/c079a10d-24e8-44b9-9367-03c8d1845cf3" />
+
+<img src="https://via.placeholder.com/300x150.png?text=Article+Image+1" alt="Article 1" style="width:100%; border-radius: 4px;"/>
+<h4 style="margin-top:10px; color: #58A6FF;">🌐 The Story Behind Every Icon</h4>
 <p style="font-size: 12px;">Building an AWS Network That Actually Makes Sense.</p>
 <span style="font-size: 12px; color: #8b949e;">Read More →</span>
 </div>
@@ -99,7 +100,10 @@
 <td width="33%" valign="top">
 <a href="https://medium.com/@codinggaurav85/how-we-scaled-myapp-com-on-aws-and-why-we-used-each-service-a0bed1b041c4" style="text-decoration:none;">
 <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #0d1117; color: #c9d1d9;">
-<h4 style="margin-top:0; color: #58A6FF;">⚖️ How We Scaled MyApp.com</h4>
+<img width="1100" height="617" alt="image" src="https://github.com/user-attachments/assets/c7b4d98e-67f5-4f77-a0f8-e8e424bd1163" />
+
+<img src="https://via.placeholder.com/300x150.png?text=Article+Image+2" alt="Article 2" style="width:100%; border-radius: 4px;"/>
+<h4 style="margin-top:10px; color: #58A6FF;">⚖️ How We Scaled MyApp.com</h4>
 <p style="font-size: 12px;">On AWS and Why We Used Each Service.</p>
 <span style="font-size: 12px; color: #8b949e;">Read More →</span>
 </div>
@@ -108,7 +112,10 @@
 <td width="33%" valign="top">
 <a href="https://medium.com/@codinggaurav85/the-making-of-myapp-com-from-one-virtual-machine-to-millions-of-users-0427f879f70e" style="text-decoration:none;">
 <div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #0d1117; color: #c9d1d9;">
-<h4 style="margin-top:0; color: #58A6FF;">🏗️ The Making of MyApp.com</h4>
+<img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/9ea2ce95-2a9e-45d7-b75d-cc1ef0da5def" />
+
+<img src="https://via.placeholder.com/300x150.png?text=Article+Image+3" alt="Article 3" style="width:100%; border-radius: 4px;"/>
+<h4 style="margin-top:10px; color: #58A6FF;">🏗️ The Making of MyApp.com</h4>
 <p style="font-size: 12px;">From One Virtual Machine to Millions of Users.</p>
 <span style="font-size: 12px; color: #8b949e;">Read More →</span>
 </div>
