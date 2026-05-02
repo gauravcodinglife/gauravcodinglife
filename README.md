@@ -69,7 +69,6 @@
   
   <!-- FULL WIDTH IMAGE -->
   <img width="1868" height="882" alt="image" src="https://github.com/user-attachments/assets/753ff616-b7b1-4b64-aaf4-42887a98734b" />  
-  <br/>
   
   <!-- DESCRIPTION BELOW IMAGE -->
   <div align="left" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 6px; padding: 20px;">
