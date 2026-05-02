@@ -1,6 +1,6 @@
 <div align="center">
   
-  <!-- FIXED NAME + ANIMATED SUBTITLE -->
+  <!-- HEADER -->
   <h1>Hey there, I'm Gaurav Chavan 👋</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=DevOps+Engineer;Kubernetes+%26+CI%2FCD+Pipelines;Infrastructure+as+Code;Cloud+Architect" alt="Typing SVG" />
   
@@ -21,7 +21,7 @@
 
   <hr/>
 
-  <!-- TECH STACK GRID -->
+  <!-- TECH STACK -->
   <h3>🛠️ Tech Stack</h3>
   
 <table border="0">
@@ -64,60 +64,80 @@
 
   <hr/>
 
-  <!-- GITHUB STATS (FIXED TO MARKDOWN SYNTAX) -->
-  <h3>📊 GitHub Stats</h3>
-  <table border="0">
+  <!-- CODING WORLD SECTION (NEW) -->
+  <h3>🚀 Founder of CodingWorld</h3>
+  <table border="0" width="100%">
   <tr>
-  <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravcodinglife&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF" alt="Gaurav's Stats" />
+  <td valign="top" width="40%">
+  <!-- REPLACE THE SRC BELOW WITH YOUR CODINGWORLD IMAGE LINK -->
+  <img src="https://via.placeholder.com/400x300.png?text=CodingWorld+Platform" alt="CodingWorld" style="width: 100%; border-radius: 6px; border: 1px solid #30363d;"/>
   </td>
-  <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravcodinglife&layout=compact&theme=dark&hide_border=true&title_color=58A6FF&text_color=ffffff" alt="Top Languages" />
+  <td valign="top" width="60%" align="left">
+  <h4 style="color: #58A6FF; margin-top: 0;">Bridging the Gap Between Theory and Practice</h4>
+  <p style="color: #c9d1d9; line-height: 1.6;">
+    Traditional learning is passive. <b>CodingWorld is active.</b><br/><br/>
+    We bridge the gap between theory and practice by providing a <b>Simulated CLI Environment</b> and <b>Live Dashboard Simulations</b>.<br/><br/>
+    Users don't just watch videos; they type commands, configure infrastructure, and solve real-world scenarios in a safe, sandboxed environment.
+  </p>
+  <br/>
+  <img width="1866" height="887" alt="image" src="https://github.com/user-attachments/assets/f67fdc50-12af-48f9-9407-b3ce0c28b39a" />
+
+  <a href="https://codingworld.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/VISIT_CODINGWORLD-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit CodingWorld" />
+  </a>
   </td>
   </tr>
   </table>
 
   <hr/>
 
-  <!-- LATEST ARTICLES (WITH IMAGE PLACEHOLDERS) -->
+  <!-- LATEST ARTICLES (FIXED LINKS & SIZING) -->
   <h3>📝 Latest Articles & Writings</h3>
-  <p>Check out my deep dives into AWS Architecture and Scaling:</p>
+  <p>Deep dives into AWS Architecture and Scaling:</p>
   
 <table border="0" width="100%">
 <tr>
+<!-- Article 1 -->
 <td width="33%" valign="top">
-<a href="https://medium.com/@codinggaurav85/the-story-behind-every-icon-building-an-aws-network-that-actually-makes-sense-8d5d78b63654" style="text-decoration:none;">
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #0d1117; color: #c9d1d9;">
-<img width="1100" height="733" alt="image" src="https://github.com/user-attachments/assets/c079a10d-24e8-44b9-9367-03c8d1845cf3" />
-
-<img src="https://via.placeholder.com/300x150.png?text=Article+Image+1" alt="Article 1" style="width:100%; border-radius: 4px;"/>
-<h4 style="margin-top:10px; color: #58A6FF;">🌐 The Story Behind Every Icon</h4>
-<p style="font-size: 12px;">Building an AWS Network That Actually Makes Sense.</p>
-<span style="font-size: 12px; color: #8b949e;">Read More →</span>
+<a href="https://medium.com/@codinggaurav85/the-story-behind-every-icon-building-an-aws-network-that-actually-makes-sense-8d5d78b63654" style="text-decoration:none; color: inherit; display: block;">
+<div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
+<img width="1100" height="733" alt="image" src="https://github.com/user-attachments/assets/53e98be1-d821-4564-b0e5-521fde2d9fbc" />
+<img src="https://via.placeholder.com/300x150.png?text=Article+1+Image" alt="Article 1" style="width: 100%; height: auto; display: block;"/>
+<div style="padding: 15px;">
+<h4 style="margin-top:0; color: #58A6FF;">🌐 The Story Behind Every Icon</h4>
+<p style="font-size: 12px; margin-bottom: 10px;">Building an AWS Network That Actually Makes Sense.</p>
+<span style="font-size: 12px; color: #8b949e; font-weight: bold;">Read Article →</span>
+</div>
 </div>
 </a>
 </td>
-<td width="33%" valign="top">
-<a href="https://medium.com/@codinggaurav85/how-we-scaled-myapp-com-on-aws-and-why-we-used-each-service-a0bed1b041c4" style="text-decoration:none;">
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #0d1117; color: #c9d1d9;">
-<img width="1100" height="617" alt="image" src="https://github.com/user-attachments/assets/c7b4d98e-67f5-4f77-a0f8-e8e424bd1163" />
 
-<img src="https://via.placeholder.com/300x150.png?text=Article+Image+2" alt="Article 2" style="width:100%; border-radius: 4px;"/>
-<h4 style="margin-top:10px; color: #58A6FF;">⚖️ How We Scaled MyApp.com</h4>
-<p style="font-size: 12px;">On AWS and Why We Used Each Service.</p>
-<span style="font-size: 12px; color: #8b949e;">Read More →</span>
+<!-- Article 2 -->
+<td width="33%" valign="top">
+<a href="https://medium.com/@codinggaurav85/how-we-scaled-myapp-com-on-aws-and-why-we-used-each-service-a0bed1b041c4" style="text-decoration:none; color: inherit; display: block;">
+<div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
+<img width="1100" height="617" alt="image" src="https://github.com/user-attachments/assets/94368298-3a86-4148-a2b0-1877dfac124c" />
+<img src="https://via.placeholder.com/300x150.png?text=Article+2+Image" alt="Article 2" style="width: 100%; height: auto; display: block;"/>
+<div style="padding: 15px;">
+<h4 style="margin-top:0; color: #58A6FF;">⚖️ How We Scaled MyApp.com</h4>
+<p style="font-size: 12px; margin-bottom: 10px;">On AWS and Why We Used Each Service.</p>
+<span style="font-size: 12px; color: #8b949e; font-weight: bold;">Read Article →</span>
+</div>
 </div>
 </a>
 </td>
-<td width="33%" valign="top">
-<a href="https://medium.com/@codinggaurav85/the-making-of-myapp-com-from-one-virtual-machine-to-millions-of-users-0427f879f70e" style="text-decoration:none;">
-<div style="border: 1px solid #30363d; border-radius: 6px; padding: 15px; background-color: #0d1117; color: #c9d1d9;">
-<img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/9ea2ce95-2a9e-45d7-b75d-cc1ef0da5def" />
 
-<img src="https://via.placeholder.com/300x150.png?text=Article+Image+3" alt="Article 3" style="width:100%; border-radius: 4px;"/>
-<h4 style="margin-top:10px; color: #58A6FF;">🏗️ The Making of MyApp.com</h4>
-<p style="font-size: 12px;">From One Virtual Machine to Millions of Users.</p>
-<span style="font-size: 12px; color: #8b949e;">Read More →</span>
+<!-- Article 3 -->
+<td width="33%" valign="top">
+<a href="https://medium.com/@codinggaurav85/the-making-of-myapp-com-from-one-virtual-machine-to-millions-of-users-0427f879f70e" style="text-decoration:none; color: inherit; display: block;">
+<div style="border: 1px solid #30363d; border-radius: 6px; overflow: hidden; background-color: #0d1117; color: #c9d1d9;">
+<img width="1100" height="619" alt="image" src="https://github.com/user-attachments/assets/207b7262-018c-431c-912e-68854819d812" />
+<img src="https://via.placeholder.com/300x150.png?text=Article+3+Image" alt="Article 3" style="width: 100%; height: auto; display: block;"/>
+<div style="padding: 15px;">
+<h4 style="margin-top:0; color: #58A6FF;">🏗️ The Making of MyApp.com</h4>
+<p style="font-size: 12px; margin-bottom: 10px;">From One Virtual Machine to Millions of Users.</p>
+<span style="font-size: 12px; color: #8b949e; font-weight: bold;">Read Article →</span>
+</div>
 </div>
 </a>
 </td>
@@ -132,7 +152,7 @@
 
   <hr/>
 
-  <!-- CONNECT SECTION -->
+  <!-- FOOTER -->
   <h3>🌐 Connect With Me</h3>
   <p align="center">
     <a href="https://gauravcodinglife.com">
