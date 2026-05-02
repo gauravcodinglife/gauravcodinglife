@@ -68,9 +68,7 @@
   <h3>🚀 Founder of CodingWorld</h3>
   
   <!-- FULL WIDTH IMAGE -->
-  <img width="1868" height="882" alt="image" src="https://github.com/user-attachments/assets/753ff616-b7b1-4b64-aaf4-42887a98734b" />
-  <img src="https://via.placeholder.com/1200x400.png?text=CodingWorld+Platform+Screenshot" style="width: 100%; border-radius: 6px; border: 1px solid #30363d;"/>
-  
+  <img width="1868" height="882" alt="image" src="https://github.com/user-attachments/assets/753ff616-b7b1-4b64-aaf4-42887a98734b" />  
   <br/>
   
   <!-- DESCRIPTION BELOW IMAGE -->
